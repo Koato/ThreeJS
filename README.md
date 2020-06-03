@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Haz click aquí para verificarlo: [Verificar si el navegador lo soporta](https://get.webgl.org/).
 
+
+## Three Js para React _(opcional)_
+
+Librería especializada para React: [React Three Fiber](https://github.com/react-spring/react-three-fiber).
+
 ## Available Scripts
 
 In the project directory, you can run:
